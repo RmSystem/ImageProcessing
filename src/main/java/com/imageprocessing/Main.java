@@ -31,7 +31,7 @@ public class Main {
 //				} catch (UnsupportedLookAndFeelException e) {
 //					log.info(e.getMessage());
 //				}
-				MainFrame frame = new MainFrame("Trimmer Tool");
+				MainFrame frame = new MainFrame("Image Processing App");
 				frame.setVisible(true);
 			}
 		});
